@@ -1,0 +1,14 @@
+# Instructor feedback:
+
+Your code is giving me a bunch of errors and it doesn't run. 
+
+Instructions on running final project using UNIX terminal:
+
+
+1) Run this command; cd payroll_mgmt
+2) Run this command; python3 __main__.py 
+
+	-> if you get this error:
+            ModuleNotFoundError: No module named 'pymysql'
+	   Run this command : sudo apt-get install python3-pymysql
+

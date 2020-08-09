@@ -1,0 +1,23 @@
+MAIN_ENTITIES = [
+    "admin",
+    "attendence",
+    "bank",
+    "bonus",
+    "company",
+    "department",
+    "Designation",
+    "Employee",
+    "Employee_history",
+    "Event",
+    "event_type",
+    "executive",
+    "insurance",
+    "paygrade",
+    "payroll",
+    "project",
+    "project_type",
+    "salary",
+    "salary_history",
+    "Specialization",
+    "vp"
+]
